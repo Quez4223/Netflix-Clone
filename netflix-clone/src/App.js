@@ -8,7 +8,7 @@ import Nav from './Nav'
 function App() {
   return (
     <div className='app'>
-      {/* Nav */}
+      <Nav />
       <Banner />
       <Row 
       title='NETFLIX ORIGINALS' 
